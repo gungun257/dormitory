@@ -2,6 +2,7 @@
 ## 一、介绍（获取源码，[查看文章末尾](#四-咨询我们)） 
 计算机毕业设计 宿舍管理系统 校园宿舍管理系统，前后端分离，分为管理员，宿管和学生，有登录、房间管理，床位分配等功能
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 ## 二、技术栈
 1. 前端：vue框架
 2. 后端：nodejs express框架
@@ -21,6 +22,7 @@
 3. 扫一扫加我微信好友吧，请备注 宿舍管理系统源码获取
 <img src="./preview/wx.jpg" style="width: 200px;">
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 
 
 
